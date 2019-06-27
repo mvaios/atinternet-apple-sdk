@@ -653,6 +653,7 @@
 		CC704B9721B6D21000114A86 /* UpdateCart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateCart.swift; sourceTree = "<group>"; };
 		CC704B9E21B6D2AE00114A86 /* TransactionConfirmation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionConfirmation.swift; sourceTree = "<group>"; };
 		CC9A55A521CA23A900A78AB3 /* ECommerce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ECommerce.swift; sourceTree = "<group>"; };
+		CCD15D0422C48DA100B6E4CD /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = SOURCE_ROOT; };
 		CCE8902D2182F7CF000BBC4F /* EventsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EventsTests.swift; path = Tests/EventsTests.swift; sourceTree = "<group>"; };
 		CCEDDA6B21C384F9006E1848 /* MvTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MvTesting.swift; sourceTree = "<group>"; };
 		CCF9B3D4214F77BC00235A77 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
@@ -838,6 +839,7 @@
 		4F47A5591D36209900702747 /* Asset */ = {
 			isa = PBXGroup;
 			children = (
+				CCD15D0422C48DA100B6E4CD /* Package.swift */,
 				8E41DCBF20BC0170002CE4CC /* README.md */,
 				8EEBADC51DF5779200FD1CFD /* ATInternet-Apple-SDK.podspec */,
 				4F47A43A1D3532FE00702747 /* Info-iOS-Extension.plist */,
